@@ -37,8 +37,8 @@
 ---
 
 ### 📫 How to Reach Me
-- ✉️ Email: youremail@example.com  
-- 🔗 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
+- ✉️ Email: Sadok.laouissi.sl@gmail.com  
+- 🔗 LinkedIn: [your-profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sadoklao/))  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 
 <br>
