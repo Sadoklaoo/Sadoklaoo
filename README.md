@@ -38,8 +38,7 @@
 
 ### 📫 How to Reach Me
 - ✉️ Email: Sadok.laouissi.sl@gmail.com  
-- 🔗 LinkedIn: [your-profile](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sadoklao/))  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 🔗 LinkedIn: [Sadoklao](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sadoklao/))  
 
 <br>
 
