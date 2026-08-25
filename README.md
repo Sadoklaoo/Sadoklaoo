@@ -3,15 +3,23 @@
 # Hi 👋, I'm Sadok Laouissi
 ### Software Engineer & MSc Computer Science Student based in Budapest, Hungary
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadok-laouissi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadok.laouissi.sl@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadoklaoo)
+<p align="center">
+  <a href="[https://www.linkedin.com/in/sadok-laouissi/](https://www.linkedin.com/in/sadok-laouissi/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sadok.laouissi.sl@gmail.com">
+    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+  </a>
+  <a href="[https://github.com/Sadoklaoo](https://github.com/Sadoklaoo)">
+    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🚀 Featured Ecosystem & Featured Projects
+### 🚀 Featured Ecosystem & Projects
 
 #### 💳 **The Fidelity Ecosystem** *(Shared Loyalty Platform)*
 * **[Fidelity-Web-Server](https://github.com/Sadoklaoo/Fidelity-Web-Server)** — Core Node.js/Express REST API & administrative web dashboard for managing merchant points logic and database operations.
@@ -26,18 +34,17 @@
 
 ### 🛠️ Tech Stack & Tools
 
-
 <p align="left">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" height="32" />
-  <img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" alt="FastAPI" height="32" />
-  <img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" alt="Node.js" height="32" />
-  <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript" height="32" />
-  <img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)" alt="Flutter" height="32" />
-  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" alt="Java" height="32" />
-  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL" height="32" />
-  <img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" height="32" />
-  <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker" height="32" />
-  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux" height="32" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="Python" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg)" alt="FastAPI" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" alt="Node.js" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)" alt="TypeScript" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)" alt="Flutter" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" alt="Java" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" alt="MySQL" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)" alt="MongoDB" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)" alt="Docker" width="40" height="40"/> &nbsp;
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
@@ -52,16 +59,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="[https://github.com/Sadoklaoo](https://github.com/Sadoklaoo)">
-    <img src="[https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false](https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)" alt="Sadoklaoo's GitHub stats" height="165" />
-  </a>
-  <a href="[https://github.com/Sadoklaoo](https://github.com/Sadoklaoo)">
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula&hide_border=false)" alt="Top languages" height="165" />
-  </a>
+  <img src="[https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)" alt="Sadoklaoo GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula)" alt="Top Languages" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/Sadoklaoo/Sadoklaoo/output/snake.svg](https://raw.githubusercontent.com/Sadoklaoo/Sadoklaoo/output/snake.svg)" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/Sadoklaoo/Sadoklaoo/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Sadoklaoo/Sadoklaoo/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 </div>
