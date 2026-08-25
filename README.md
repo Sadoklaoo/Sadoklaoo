@@ -8,7 +8,7 @@
 
 
 </div>
----
+
 ### 🎓 End of Studies / Master's Thesis Project
 
 #### ⚡ [distributed_database_tradeoff](https://github.com/Sadoklaoo/distributed_database_tradeoff)
