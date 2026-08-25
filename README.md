@@ -3,17 +3,9 @@
 # Hi 👋, I'm Sadok Laouissi
 ### Software Engineer & MSc Computer Science Student based in Budapest, Hungary
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/sadok-laouissi/](https://www.linkedin.com/in/sadok-laouissi/)">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sadok.laouissi.sl@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
-  </a>
-  <a href="[https://github.com/Sadoklaoo](https://github.com/Sadoklaoo)">
-    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
-  </a>
-</p>
+[**LinkedIn**](https://www.linkedin.com/in/sadok-laouissi/) | [**Email**](mailto:sadok.laouissi.sl@gmail.com) | [**GitHub**](https://github.com/Sadoklaoo)
+
+
 
 </div>
 
