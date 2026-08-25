@@ -16,7 +16,17 @@
 </p>
 
 </div>
+---
+### 🚀 Featured Ecosystem & Projects
 
+#### 💳 **The Fidelity Ecosystem** *(Shared Loyalty Platform)*
+* **[Fidelity-Web-Server](https://github.com/Sadoklaoo/Fidelity-Web-Server)** — Core Node.js/Express REST API & administrative web dashboard for managing merchant points logic and database operations.
+* **[Fidelity-App](https://github.com/Sadoklaoo/Fidelity-App)** — Cross-platform B2C Flutter application enabling customers to earn, track, and redeem loyalty points.
+* **[Fidelity-Corp](https://github.com/Sadoklaoo/Fidelity-Corp)** — Native Java Android application for B2B partner merchants to process transactions and validate points.
+
+#### 🏡 **IoT & Community Platforms**
+* **[smarthouse-cps-backend](https://github.com/Sadoklaoo/smarthouse-cps-backend)** — FastAPI + MongoDB backend powering an IoT Smart House Control Platform.
+* **[social_4_sports_backend](https://github.com/Sadoklaoo/social_4_sports_backend)** — Node.js & TypeScript REST API supporting matchmaking, messaging, and activity logs for sports communities.
 
 ### 🔭 Currently Working On
 - **[smarthouse-cps-backend](https://github.com/Sadoklaoo/smarthouse-cps-backend)**  
