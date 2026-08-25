@@ -1,47 +1,66 @@
-<h2 align="left">Hi 👋! I’m Sadoklaoo, a Software Engineer from Budapest, Hungary</h2>
+<div align="center">
+
+# Hi 👋, I'm Sadok Laouissi
+### Software Engineer & MSc Computer Science Student based in Budapest, Hungary
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadok-laouissi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadok.laouissi.sl@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadoklaoo)
+
+</div>
+
+---
+
+### 🚀 Featured Ecosystem & Featured Projects
+
+#### 💳 **The Fidelity Ecosystem** *(Shared Loyalty Platform)*
+* **[Fidelity-Web-Server](https://github.com/Sadoklaoo/Fidelity-Web-Server)** — Core Node.js/Express REST API & administrative web dashboard for managing merchant points logic and database operations.
+* **[Fidelity-App](https://github.com/Sadoklaoo/Fidelity-App)** — Cross-platform B2C Flutter application enabling customers to earn, track, and redeem loyalty points.
+* **[Fidelity-Corp](https://github.com/Sadoklaoo/Fidelity-Corp)** — Native Java Android application for B2B partner merchants to process transactions and validate points.
+
+#### 🏡 **IoT & Community Platforms**
+* **[smarthouse-cps-backend](https://github.com/Sadoklaoo/smarthouse-cps-backend)** — FastAPI + MongoDB backend powering an IoT Smart House Control Platform.
+* **[social_4_sports_backend](https://github.com/Sadoklaoo/social_4_sports_backend)** — Node.js & TypeScript REST API supporting matchmaking, messaging, and activity logs for sports communities.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://github.com/Sadoklaoo">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Sadoklaoo's GitHub stats" height="150" />
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
+  <img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" alt="FastAPI" />
+  <img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" alt="Node.js" />
+  <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript" />
+  <img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)" alt="Flutter" />
+  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" alt="Java" />
+  <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL" />
+  <img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)" alt="MongoDB" />
+  <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker" />
+  <img src="[https://img.shields.io/badge/WSL-4EAA25?style=for-the-badge&logo=linux&logoColor=white](https://img.shields.io/badge/WSL-4EAA25?style=for-the-badge&logo=linux&logoColor=white)" alt="WSL" />
+</p>
+
+---
+
+### 🌱 Learning & Focus
+* **Architecture:** Microservices design, container orchestration with Docker & Kubernetes
+* **Backend:** Advanced server-side architectures, GraphQL & Apollo Server
+* **Frontend Integration:** Modern SSR/SSG patterns with Next.js
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <a href="[https://github.com/Sadoklaoo](https://github.com/Sadoklaoo)">
+    <img src="[https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false](https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=false)" alt="Sadoklaoo's GitHub stats" height="165" />
   </a>
-  <a href="https://github.com/Sadoklaoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula&hide_border=false" alt="Top languages" height="150" />
+  <a href="[https://github.com/Sadoklaoo](https://github.com/Sadoklaoo)">
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula&hide_border=false)" alt="Top languages" height="165" />
   </a>
 </p>
 
 ---
 
-### 🔭 Currently Working On
-- **[smarthouse-cps-backend](https://github.com/Sadoklaoo/smarthouse-cps-backend)**  
-  FastAPI + MongoDB backend powering an IoT Smart House Control Platform.  
-- **[social_4_sports_backend](https://github.com/Sadoklaoo/social_4_sports_backend)**  
-  Node.js & TypeScript REST API for matchmaking, messaging, and match tracking in sports communities.  
-
-### 🌱 Learning
-- Microservices architecture with Docker & Kubernetes  
-- Server-side frameworks & GraphQL (e.g. Apollo Server)  
-- Frontend integration with Next.js
-
----
-
-### 💻 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"    alt="Python"    height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"    alt="FastAPI"   height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"      alt="Node.js"   height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"    alt="MongoDB"  height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"      alt="Docker"    height="30" />
-</div>
-
----
-
-### 📫 How to Reach Me
-- ✉️ Email: Sadok.laouissi.sl@gmail.com  
-- 🔗 LinkedIn: [Sadoklao](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sadoklao/))  
-
-<br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sadoklaoo/Sadoklaoo/output/snake.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/Sadoklaoo/Sadoklaoo/output/snake.svg](https://raw.githubusercontent.com/Sadoklaoo/Sadoklaoo/output/snake.svg)" alt="Snake animation" />
 </div>
