@@ -16,7 +16,7 @@
 </p>
 
 </div>
----
+
 ### 🚀 Featured Ecosystem & Projects
 
 #### 💳 **The Fidelity Ecosystem** *(Shared Loyalty Platform)*
