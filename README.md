@@ -28,16 +28,6 @@
 * **[smarthouse-cps-backend](https://github.com/Sadoklaoo/smarthouse-cps-backend)** — FastAPI + MongoDB backend powering an IoT Smart House Control Platform.
 * **[social_4_sports_backend](https://github.com/Sadoklaoo/social_4_sports_backend)** — Node.js & TypeScript REST API supporting matchmaking, messaging, and activity logs for sports communities.
 
-### 🔭 Currently Working On
-- **[smarthouse-cps-backend](https://github.com/Sadoklaoo/smarthouse-cps-backend)**  
-  FastAPI + MongoDB backend powering an IoT Smart House Control Platform.  
-- **[social_4_sports_backend](https://github.com/Sadoklaoo/social_4_sports_backend)**  
-  Node.js & TypeScript REST API for matchmaking, messaging, and match tracking in sports communities.  
-
-### 🌱 Learning
-- Microservices architecture with Docker & Kubernetes  
-- Server-side frameworks & GraphQL (e.g. Apollo Server)  
-- Frontend integration with Next.js
 
 ---
 
