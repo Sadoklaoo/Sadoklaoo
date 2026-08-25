@@ -1,4 +1,5 @@
 <div align="center">
+
 # Hi 👋, I'm Sadok Laouissi
 ### Software Engineer & MSc Computer Science Student based in Budapest, Hungary
 
@@ -15,7 +16,6 @@
 </p>
 
 </div>
-
 ---
 
 ### 🔭 Currently Working On
