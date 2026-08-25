@@ -20,6 +20,10 @@
 
 ### 🚀 Featured Ecosystem & Projects
 
+#### 🎸 **Guitar Tracker Ecosystem** *(Practice & Repertoire Manager)*
+* **[guitar_tracker_flutter](https://github.com/Sadoklaoo/guitar_tracker_flutter)** — Cross-platform Flutter mobile client for tracking practice routines, repertoire, and chord progression logs.
+* **[Guitar-Tracker-App](https://github.com/Sadoklaoo/Guitar-Tracker-App)** — Python backend API service handling data persistence, practice metrics analytics, and sync operations.
+
 #### 💳 **The Fidelity Ecosystem** *(Shared Loyalty Platform)*
 * **[Fidelity-Web-Server](https://github.com/Sadoklaoo/Fidelity-Web-Server)** — Core Node.js/Express REST API & administrative web dashboard for managing merchant points logic and database operations.
 * **[Fidelity-App](https://github.com/Sadoklaoo/Fidelity-App)** — Cross-platform B2C Flutter application enabling customers to earn, track, and redeem loyalty points.
