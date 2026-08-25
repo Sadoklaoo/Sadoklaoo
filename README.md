@@ -3,7 +3,7 @@
 # Hi 👋, I'm Sadok Laouissi
 ### Software Engineer & MSc Computer Science Student based in Budapest, Hungary
 
-[**LinkedIn**](https://www.linkedin.com/in/sadok-laouissi/) | [**Email**](mailto:sadok.laouissi.sl@gmail.com) | [**GitHub**](https://github.com/Sadoklaoo)
+[**LinkedIn**](https://www.linkedin.com/in/sadoklao/) | [**Email**](mailto:sadok.laouissi.sl@gmail.com) | [**GitHub**](https://github.com/Sadoklaoo)
 
 
 
