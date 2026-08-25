@@ -30,14 +30,6 @@
 * **Frontend Integration:** Modern SSR/SSG patterns with Next.js
 
 ---
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Sadoklaoo&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)" alt="Sadoklaoo GitHub Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadoklaoo&layout=compact&theme=dracula)" alt="Top Languages" />
-</p>
-
----
 
 ### 💻 Tech Stack
 <div align="left">
