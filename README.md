@@ -8,6 +8,15 @@
 
 
 </div>
+---
+### 🎓 End of Studies / Master's Thesis Project
+
+#### ⚡ [distributed_database_tradeoff](https://github.com/Sadoklaoo/distributed_database_tradeoff)
+* **Overview:** A containerized benchmarking testbed designed to empirically evaluate and quantify trade-offs in distributed database architectures (MongoDB vs. Apache Cassandra).
+* **Research Focus:** Practical operationalization of theoretical models like the **CAP** and **PACELC** theorems through synthetic workload stress testing, monotonic latency telemetry, and simulated network fault injection.
+* **Key Innovations:** Developed a custom FastAPI controller featuring automated fault injection and an adaptive consistency controller prototype to dynamically balance latency and data guarantees.
+* **Tech Stack:** `Python` • `FastAPI` • `MongoDB` • `Apache Cassandra` • `Docker Compose`
+---
 
 ### 🚀 Featured Ecosystem & Projects
 
